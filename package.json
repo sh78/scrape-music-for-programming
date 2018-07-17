@@ -1,0 +1,14 @@
+{
+  "name": "scrape-music-for-programming",
+  "version": "1.0.0",
+  "description": "download all mp3's from musicforprogramming.net",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Henderson",
+  "license": "MIT",
+  "dependencies": {
+    "casperjs": "^1.1.4"
+  }
+}
